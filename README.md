@@ -3,7 +3,7 @@ A simple game written in C++ as a project for a university programming course
 in Faculty of Engineering, Cairo University.  
   
 People besides me who worked on this project:  
-@AbdulrahmanEl-Bedewy
+@AbdulrahmanEl-Bedewy  
 Amr Ashraf  
 Gaser Sami   
 
